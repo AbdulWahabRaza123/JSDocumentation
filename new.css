@@ -1,0 +1,33 @@
+.navbar
+{
+    font-family: 'Courier New', Courier, monospace;
+    border-right:5px solid black;
+    height: 630px;
+    border-bottom: 5px solid black;
+    height:630px;
+    text-align: center;
+    background-color: cornsilk;
+}
+a
+{
+    text-decoration: none;
+    color:black;
+    margin: 5px;
+}
+nav
+{
+    position: fixed;
+}
+#main-doc
+{
+    padding-left: 360px;
+  margin:10px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+code{
+    background-color: cornsilk;
+    margin:10px;
+    padding: 10px;
+    display:block;
+}
